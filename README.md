@@ -9,4 +9,4 @@ Portafolio para Ciencia de Datos
 
 * Una mierda
 
-![](https://github.com/Victor-Ampuero/Victor_Ampuero_Portafolio/blob/main/images/Dashboard%20Power%20BI.jpeg)
+![](/images/Dashboard%20Power%20BI.jpeg)
