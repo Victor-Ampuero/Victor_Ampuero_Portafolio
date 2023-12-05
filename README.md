@@ -8,3 +8,5 @@ Portafolio para Ciencia de Datos
 # [Project 2: Imagen](https://github.com/PlayingNumbers/ball_image_classifier)
 
 * Una mierda
+
+:[](https://github.com/Victor-Ampuero/Victor_Ampuero_Portafolio/blob/main/images/Dashboard%20Power%20BI.jpeg)
