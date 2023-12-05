@@ -9,4 +9,4 @@ Portafolio para Ciencia de Datos
 
 * Una mierda
 
-![]()
+![](images/Dashboard%20Power%20BI.jpeg)
